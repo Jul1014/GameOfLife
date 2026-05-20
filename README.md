@@ -5,7 +5,7 @@ Sin dependencias, sin frameworks, sin build steps. Un solo archivo.
 
 ## 🎮 Demo
 
-👉 **[Jugar ahora](https://Jul1014.github.io/game-of-life/)** 
+👉 **[Jugar ahora](https://Jul1014.github.io/GameOfLife/)** 
 
 ---
 
